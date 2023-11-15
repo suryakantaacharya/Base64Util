@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Base64;
 
-public class Main {
+public class FileToBase64Gen {
     public static void main(String[] args) {
         try {
             // Replace these paths with the actual paths to your private and public key files
